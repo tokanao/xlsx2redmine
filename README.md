@@ -1,5 +1,5 @@
 
-# xls_to_redmine
+# xlsx_to_redmine
 
 
 ## 説明
